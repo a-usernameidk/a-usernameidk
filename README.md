@@ -1,5 +1,5 @@
 ## Hi there 👋
-- what am i working on: im work on something juh wait
+- what am i working on: im work on a thing
 - what am i do: i basically make python scripts that are games and stuff
 - about me:
   im not great at python or really any programming language i do take lots of outside help to make my code so dont hate on me for using ai to code
