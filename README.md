@@ -1,4 +1,4 @@
-## Hi 👋
+## Hi
 - what am i working on: im work on a thing where i use yt-dlp to make a universal video downloader thingy and basically it amazing
 - what am i do: i basically make python scripts that are games and stuff
 - about me:
